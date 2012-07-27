@@ -1,5 +1,10 @@
+require 'capybara'
+
+Given /^I am on the google home page$/ do
+  visit 'http://www.google.com/'
+end
+
 When /^I search Google for "(.*)"$/ do |query|
-  visit 'http://www.google.com/advanced_search?hl=en'
   fill_in 'as_q', :with => query
   click_button 'Search'
 end
