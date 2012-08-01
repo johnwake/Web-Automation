@@ -1,0 +1,14 @@
+Welcome, 
+
+I have a simple Hello World example for you to explian how Cucumber works in a BDD way. 
+
+To Get Started you need to install the following Ruby Gems.
+
+$ gem install cucumber
+$ gem install rpsec
+
+One this is installed you free to run your this Cucumber test. You can do this my typing $ cucumber features
+
+All Tests should pass and give you a nice green output. 
+
+*(If none of tests have passed make sure that cucumber and rspec are correctly isntalled and try again..)
