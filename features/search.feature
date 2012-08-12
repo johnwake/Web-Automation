@@ -1,5 +1,7 @@
-Feature: Demo
-  Make sure Cucumber and Capybara are wired up properly
+Feature: Search for Automation in Google
+  So that i can demo how cucumber works
+  As a Tester
+  I want to search for a term in Google
   
   Scenario: Search Google
     Given I am on the google home page
