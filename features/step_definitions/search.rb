@@ -1,5 +1,3 @@
-require 'capybara'
-
 Given /^I am on the google home page$/ do
   visit 'http://www.google.com/'
 end
