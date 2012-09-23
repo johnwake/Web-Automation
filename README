@@ -4,10 +4,10 @@ I have a simple Hello World example for you to explian how Cucumber works in a B
 
 To Get Started you need to install the following Ruby Gems.
 
-$ gem install cucumber
-$ gem install rpsec
+$ bundle install
 
-One this is installed you free to run your this Cucumber test. You can do this my typing $ cucumber features
+One this is installed you free to run your this Cucumber test. You can do this my typing 
+$ cucumber
 
 All Tests should pass and give you a nice green output. 
 
