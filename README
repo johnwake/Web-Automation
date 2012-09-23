@@ -1,8 +1,8 @@
 Welcome, 
 
-I have a simple Hello World example for you to explian how Cucumber works in a BDD way. 
+I have a simple web application example for you to explian how Cucumber works in a BDD way, Using Cucumber, Capybara, Sinatra and Ruby. 
 
-To Get Started you need to install the following Ruby Gems.
+To Get Started you need to install the following Ruby Gems using bundler.
 
 $ bundle install
 
@@ -11,4 +11,8 @@ $ cucumber
 
 All Tests should pass and give you a nice green output. 
 
-*(If none of tests have passed make sure that cucumber and rspec are correctly isntalled and try again..)
+You can also just run the web application without using the tests by using: 
+
+$ shotgun
+
+and then going to http://localhost:9393 from a browser. 
