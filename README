@@ -6,7 +6,7 @@ To Get Started you need to install the following Ruby Gems using bundler.
 
 $ bundle install
 
-One this is installed you free to run your this Cucumber test. You can do this my typing 
+One this is installed you free to run your this Cucumber test. You can do this my typing:
 $ cucumber
 
 All Tests should pass and give you a nice green output. 
